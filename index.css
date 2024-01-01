@@ -1,0 +1,183 @@
+
+
+.Desktop1 {
+    margin-left: 5%;
+    color: gray;
+}
+
+.Desktop2 {
+    margin-left: 5%;
+    color: gray;
+}
+
+.outerbox {
+    background-color: #202733;
+    padding: 7%;
+    text-align: center;
+    width: 30%;
+    margin-left: 5%;
+    height: 80%;
+    float: left;
+}
+
+.outerboxM {
+    background-color: #202733;
+    padding-right: 7%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 1%;
+    text-align: center;
+    width: 15%;
+    margin-left: 5%;
+    float: left;
+}
+
+.innerbox {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5%;
+    margin-left: 15%;
+    font-family: Manrope;
+    color: #CEE3E9;    ;
+    background-color: #313A48;
+    border-radius: 8px;;
+    width: 60%;
+    height: 180px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 8%;
+}
+
+
+.innerboxtopper {
+    color: aquamarine;
+    padding-top: 7%;
+    font-family: Manrope;
+}
+
+.innerboxtopperM {
+    color: aquamarine;
+    padding-top: 2%;
+    font-family: Manrope;
+}
+
+.innerline1 {
+    border-bottom: 1px solid #4F5D74;
+    width: 40%;
+    padding-top: 12%;
+    float: left;
+}
+
+.innerline1M {
+    border-bottom: 1px solid #4F5D74;
+    width: 40%;
+    padding-top: 22%;
+    float: left;
+}
+
+.innerline1, h1{
+    font-weight: bold;
+    font-family: Manrope;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.innerline1M, h1{
+    font-weight: bold;
+    font-family: Manrope;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.innerline2 {
+    border-bottom: 1px solid #4F5D74;
+    width: 40%;
+    padding-top: 12%;
+    display: inline-block;
+    float: right;
+}
+
+.innerline2M {
+    border-bottom: 1px solid #4F5D74;
+    width: 40%;
+    padding-top: 22%;
+    display: inline-block;
+    float: right;
+}
+
+.innercircle {
+    border-radius: 50%;
+    background-color: #53FFAA;
+    padding-top: 1%;
+    margin-left: 45%;
+    width: 30px;
+    height: 25px;
+    margin-top: 2%;
+}
+
+.innercircleM {
+    border-radius: 50%;
+    background-color: #53FFAA;
+    padding-top: 1%;
+    margin-left: 37%;
+    width: 30px;
+    height: 25px;
+    margin-top: 39%;
+}
+
+.fas {
+    color: black;
+}
+
+/* .outerboxM {
+    background-color: #202733;
+    padding: 7%;
+    text-align: center;
+    width: 10%;
+    height: 80%;
+    display: inline-block;
+} */
+
+.innerboxM {
+    text-align: center;
+    height: 70%;
+    font-size: 14px;
+    font-family: Manrope;
+    color: #CEE3E9;    ;
+    background-color: #313A48;
+    border-radius: 8px;;
+    width: 60%;
+    height: 180px;
+    padding: 40%;
+}
+
+.Desktop0 {
+    margin-left: 5%;
+    color: gray;
+}
+
+.outerbox0 {
+    background-color: #202733;
+    padding: 7%;
+    text-align: center;
+    width: 32%;
+    height: 80%;
+    margin-top: 30%;
+    display: block;
+}
+
+.innerbox0 {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5%;
+    margin-left: 15%;
+    font-family: 'Manrope', sans-serif;
+    color: #CEE3E9;
+    background-color: #313A48;
+    border-radius: 8px;
+    width: 60%;
+    height: 180px;
+    padding: 5%;
+    margin-bottom: 8%;
+}
